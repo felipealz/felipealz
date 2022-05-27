@@ -1,4 +1,6 @@
-### Hi there 👋
+# 
+   
+## Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Soy [Felipe Alzate!](https://www.linkedin.com/in/felipealz/) 
 
 <!--
 **felipealz/felipealz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.linkedin.com/in/felipealz/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/jnoiseofficial/" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:juan.alzate@vecindario.com" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/6ky1MIxfJRUDHwnXJmdD1M)
+<br/>
+---
+
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=felipealz.felipealz)
